@@ -1,0 +1,6 @@
+#几种常见的回归损失函数https://baijiahao.baidu.com/s?id=1643175053031902456&wfr=spider&for=pc
+1、L1损失
+2、L2损失
+3、huber 损失
+4、log-cosh损失
+5、分为数损失
