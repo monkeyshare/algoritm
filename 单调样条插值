@@ -1,0 +1,3 @@
+原始论文：MONOTONE PIECEWISE CUBIC INTERPOLATION* 1980   F. N. FRITSCHt AND R. E. CARLSON
+原理理解：三次样条插值(Cubic Spline Interpolation)及代码实现(C语言) https://blog.csdn.net/flyingleo1981/article/details/53008931
+python理解：
